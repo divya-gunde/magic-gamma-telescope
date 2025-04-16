@@ -48,14 +48,6 @@ Key steps in this project include:
 - matplotlib
 - seaborn
 
-## 📁 Repository Structure
-
-magic-gamma-telescope/ ├── magic_gamma_telescope.ipynb # Main Jupyter notebook ├── requirements.txt # List of dependencies └── README.md # Project documentation
-
-markdown
-Copy
-Edit
-
 ## 🚀 Future Work
 
 - Hyperparameter tuning for improved model performance
